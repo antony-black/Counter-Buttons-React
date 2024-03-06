@@ -17,10 +17,10 @@ function App() {
         <h2>COUNTER:</h2>
         <h1>{count}</h1>
         <button onClick={handleMinusButton} className="minus">
-          - Минус
+          - Minus
         </button>
         <button onClick={handlePlusButton} className="plus">
-          Плюс +
+          Plus +
         </button>
       </div>
     </div>
